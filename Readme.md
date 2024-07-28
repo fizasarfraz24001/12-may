@@ -11,3 +11,5 @@ Chaining Operations:
 Ability to perform multiple operations consecutively without restarting the application.
 Clear and Exit:
 Options to clear the current calculation or exit the application at any time.
+**npx command:**
+npx fs001_simple_calculator
